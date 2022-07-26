@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6a46679b.css",
+    "main.js": "./static/js/main.3638f365.js",
+    "static/media/cloneNetflix.png": "./static/media/cloneNetflix.5e271a7e463a1ae480c8.png",
+    "static/media/agencia.png": "./static/media/agencia.a581ce36af0abadc47e8.png",
+    "static/media/cafeteria.png": "./static/media/cafeteria.35b99bdb2b57bf019e82.png",
+    "static/media/pokedex.png": "./static/media/pokedex.4a4c5020dd00d206d248.png",
+    "static/media/painel.png": "./static/media/painel.199868ddbec955737820.png",
+    "static/media/sobreImage.jpg": "./static/media/sobreImage.383b659380cf9bfc99b0.jpg",
+    "static/media/buscacep.png": "./static/media/buscacep.c00b745fb17071c709df.png",
+    "static/media/condominio.png": "./static/media/condominio.a7e901a96f5a1b4ffc4b.png",
+    "static/media/VS_logo1.png": "./static/media/VS_logo1.6f4c682d47e06d8597b0.png",
+    "index.html": "./index.html",
+    "main.6a46679b.css.map": "./static/css/main.6a46679b.css.map",
+    "main.3638f365.js.map": "./static/js/main.3638f365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a46679b.css",
+    "static/js/main.3638f365.js"
+  ]
+}
